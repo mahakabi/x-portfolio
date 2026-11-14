@@ -6,7 +6,7 @@
 // ─────────────────────────────────────────────────────────────
 
 export const cv = {
-  name: "Your Name",
+  name: "Maha AlAtawi",
   title: "Your Role, e.g. Software Engineering Student",
   location: "Riyadh, Saudi Arabia",
   summary:
@@ -59,6 +59,16 @@ export const cv = {
     {
       slug: "task-manager",
       name: "Task Manager",
+      summary: "One line that explains what the project does.",
+      description:
+        "A longer description for the project page: the problem, what you built, and what you learned.",
+      tech: ["React", "Node.js", "MongoDB"],
+      demo: "",
+      repo: "",
+    },
+    {
+      slug: "inviews",
+      name: "INVIEWS",
       summary: "One line that explains what the project does.",
       description:
         "A longer description for the project page: the problem, what you built, and what you learned.",
